@@ -1,0 +1,203 @@
+id	Accession	Release_Date	Species	Length	Geo_Location	Geo_Location_Abbreviation	Sub_Geo_Location	Host	Isolation_Source
+MN646689.1	MN646689	2020-01-21T00:00:00Z	Orthohepevirus A	7307	France	FR	France	Homo sapiens	blood
+MN646690.1	MN646690	2020-01-21T00:00:00Z	Orthohepevirus A	7342	France	FR	France	Homo sapiens	blood
+MN646691.1	MN646691	2020-01-21T00:00:00Z	Orthohepevirus A	7345	France	FR	France	Homo sapiens	blood
+MN646692.1	MN646692	2020-01-21T00:00:00Z	Orthohepevirus A	7315	France	FR	France	Homo sapiens	blood
+MN646693.1	MN646693	2020-01-21T00:00:00Z	Orthohepevirus A	7424	France	FR	France	Homo sapiens	blood
+MN646694.1	MN646694	2020-01-21T00:00:00Z	Orthohepevirus A	7291	France	FR	France	Homo sapiens	blood
+MN646695.1	MN646695	2020-01-21T00:00:00Z	Orthohepevirus A	7341	France	FR	France	Homo sapiens	blood
+MN646696.1	MN646696	2020-01-21T00:00:00Z	Orthohepevirus A	7306	France	FR	France	Homo sapiens	blood
+MN401237.1	MN401237	2019-11-30T00:00:00Z	Orthohepevirus A	7232	France	FR	France	Homo sapiens	feces
+MN401238.1	MN401238	2019-11-30T00:00:00Z	Orthohepevirus A	7138	France	FR	France	Homo sapiens	feces
+MH991993.1	MH991993	2019-05-31T00:00:00Z	Orthohepevirus A	7202	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH991994.1	MH991994	2019-05-31T00:00:00Z	Orthohepevirus A	7202	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH991995.1	MH991995	2019-05-31T00:00:00Z	Orthohepevirus A	7204	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH991996.1	MH991996	2019-05-31T00:00:00Z	Orthohepevirus A	7214	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH991997.1	MH991997	2019-05-31T00:00:00Z	Orthohepevirus A	7214	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH991998.1	MH991998	2019-05-31T00:00:00Z	Orthohepevirus A	7214	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH991999.1	MH991999	2019-05-31T00:00:00Z	Orthohepevirus A	7214	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992000.1	MH992000	2019-05-31T00:00:00Z	Orthohepevirus A	7214	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992001.1	MH992001	2019-05-31T00:00:00Z	Orthohepevirus A	7214	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992002.1	MH992002	2019-05-31T00:00:00Z	Orthohepevirus A	7215	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992003.1	MH992003	2019-05-31T00:00:00Z	Orthohepevirus A	7215	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992004.1	MH992004	2019-05-31T00:00:00Z	Orthohepevirus A	7215	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992005.1	MH992005	2019-05-31T00:00:00Z	Orthohepevirus A	7215	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992006.1	MH992006	2019-05-31T00:00:00Z	Orthohepevirus A	7215	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992007.1	MH992007	2019-05-31T00:00:00Z	Orthohepevirus A	7216	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992008.1	MH992008	2019-05-31T00:00:00Z	Orthohepevirus A	7216	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992009.1	MH992009	2019-05-31T00:00:00Z	Orthohepevirus A	7216	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992010.1	MH992010	2019-05-31T00:00:00Z	Orthohepevirus A	7216	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992011.1	MH992011	2019-05-31T00:00:00Z	Orthohepevirus A	7217	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992012.1	MH992012	2019-05-31T00:00:00Z	Orthohepevirus A	7217	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH992013.1	MH992013	2019-05-31T00:00:00Z	Orthohepevirus A	7221	Bangladesh	BD	Bangladesh	Homo sapiens	
+MH504124.1	MH504124	2019-03-03T00:00:00Z	Orthohepevirus A	7237	United Kingdom	UK	United Kingdom: Bedford	Homo sapiens	blood
+MH504125.1	MH504125	2019-03-03T00:00:00Z	Orthohepevirus A	7229	United Kingdom	UK	United Kingdom: Aylesbury	Homo sapiens	blood
+MH504126.1	MH504126	2019-03-03T00:00:00Z	Orthohepevirus A	7236	United Kingdom	UK	United Kingdom: Surrey	Homo sapiens	blood
+MH504127.1	MH504127	2019-03-03T00:00:00Z	Orthohepevirus A	7221	United Kingdom	UK	United Kingdom: Gloucester	Homo sapiens	blood
+MH504128.1	MH504128	2019-03-03T00:00:00Z	Orthohepevirus A	7231	United Kingdom	UK	United Kingdom: Brighton	Homo sapiens	blood
+MH504129.1	MH504129	2019-03-03T00:00:00Z	Orthohepevirus A	7237	United Kingdom	UK	United Kingdom: Poole	Homo sapiens	blood
+MH504130.1	MH504130	2019-03-03T00:00:00Z	Orthohepevirus A	7206	United Kingdom	UK	United Kingdom: Newcastle	Homo sapiens	blood
+MH504131.1	MH504131	2019-03-03T00:00:00Z	Orthohepevirus A	7231	United Kingdom	UK	United Kingdom: Newcastle	Homo sapiens	blood
+MH504132.1	MH504132	2019-03-03T00:00:00Z	Orthohepevirus A	7215	United Kingdom	UK	United Kingdom: Manchester	Homo sapiens	blood
+MH504133.1	MH504133	2019-03-03T00:00:00Z	Orthohepevirus A	7229	United Kingdom	UK	United Kingdom: Oxford	Homo sapiens	blood
+MH504134.1	MH504134	2019-03-03T00:00:00Z	Orthohepevirus A	7237	United Kingdom	UK	United Kingdom: London	Homo sapiens	blood
+MH504135.1	MH504135	2019-03-03T00:00:00Z	Orthohepevirus A	7237	United Kingdom	UK	United Kingdom: Southampton	Homo sapiens	blood
+MH504136.1	MH504136	2019-03-03T00:00:00Z	Orthohepevirus A	7218	United Kingdom	UK	United Kingdom: Gloucester	Homo sapiens	blood
+MH504137.1	MH504137	2019-03-03T00:00:00Z	Orthohepevirus A	7237	United Kingdom	UK	United Kingdom: Poole	Homo sapiens	blood
+MH504138.1	MH504138	2019-03-03T00:00:00Z	Orthohepevirus A	7237	United Kingdom	UK	United Kingdom: Oldham	Homo sapiens	blood
+MH504139.1	MH504139	2019-03-03T00:00:00Z	Orthohepevirus A	7230	United Kingdom	UK	United Kingdom: Gloucester	Homo sapiens	blood
+MH504140.1	MH504140	2019-03-03T00:00:00Z	Orthohepevirus A	7241	United Kingdom	UK	United Kingdom: Nottingham	Homo sapiens	blood
+MH504141.1	MH504141	2019-03-03T00:00:00Z	Orthohepevirus A	7222	United Kingdom	UK	United Kingdom: Portsmouth	Homo sapiens	blood
+MH504142.1	MH504142	2019-03-03T00:00:00Z	Orthohepevirus A	7235	United Kingdom	UK	United Kingdom: Manchester	Homo sapiens	blood
+MH504143.1	MH504143	2019-03-03T00:00:00Z	Orthohepevirus A	7234	United Kingdom	UK	United Kingdom: Derby	Homo sapiens	blood
+MH504144.1	MH504144	2019-03-03T00:00:00Z	Orthohepevirus A	7236	United Kingdom	UK	United Kingdom: Swansea	Homo sapiens	blood
+MH504145.1	MH504145	2019-03-03T00:00:00Z	Orthohepevirus A	7241	United Kingdom	UK	United Kingdom: Surrey	Homo sapiens	blood
+MH504146.1	MH504146	2019-03-03T00:00:00Z	Orthohepevirus A	7241	United Kingdom	UK	United Kingdom: Chichester	Homo sapiens	blood
+MH504147.1	MH504147	2019-03-03T00:00:00Z	Orthohepevirus A	7217	United Kingdom	UK	United Kingdom: Leeds	Homo sapiens	blood
+MH504148.1	MH504148	2019-03-03T00:00:00Z	Orthohepevirus A	7222	United Kingdom	UK	United Kingdom: Bristol	Homo sapiens	blood
+MH504149.1	MH504149	2019-03-03T00:00:00Z	Orthohepevirus A	7226	United Kingdom	UK	United Kingdom: London	Homo sapiens	blood
+MH504150.1	MH504150	2019-03-03T00:00:00Z	Orthohepevirus A	7236	United Kingdom	UK	United Kingdom: South Shields	Homo sapiens	blood
+MH504151.1	MH504151	2019-03-03T00:00:00Z	Orthohepevirus A	7216	United Kingdom	UK	United Kingdom: Swansea	Homo sapiens	blood
+MH504152.1	MH504152	2019-03-03T00:00:00Z	Orthohepevirus A	7235	United Kingdom	UK	United Kingdom: Belfast	Homo sapiens	blood
+MH504153.1	MH504153	2019-03-03T00:00:00Z	Orthohepevirus A	7232	United Kingdom	UK	United Kingdom: Torquay	Homo sapiens	blood
+MH504154.1	MH504154	2019-03-03T00:00:00Z	Orthohepevirus A	7197	United Kingdom	UK	United Kingdom: Hillingdon	Homo sapiens	blood
+MH504155.1	MH504155	2019-03-03T00:00:00Z	Orthohepevirus A	7189	United Kingdom	UK	United Kingdom: Brighton	Homo sapiens	blood
+MH504156.1	MH504156	2019-03-03T00:00:00Z	Orthohepevirus A	7189	United Kingdom	UK	United Kingdom: London	Homo sapiens	blood
+MH504157.1	MH504157	2019-03-03T00:00:00Z	Orthohepevirus A	7184	United Kingdom	UK	United Kingdom: London	Homo sapiens	blood
+MH504158.1	MH504158	2019-03-03T00:00:00Z	Orthohepevirus A	7197	United Kingdom	UK	United Kingdom: Oldham	Homo sapiens	blood
+MH504159.1	MH504159	2019-03-03T00:00:00Z	Orthohepevirus A	7187	United Kingdom	UK	United Kingdom: Surrey	Homo sapiens	blood
+MH504160.1	MH504160	2019-03-03T00:00:00Z	Orthohepevirus A	7185	United Kingdom	UK	United Kingdom: Surrey	Homo sapiens	blood
+MH504161.1	MH504161	2019-03-03T00:00:00Z	Orthohepevirus A	7194	United Kingdom	UK	United Kingdom: Exeter	Homo sapiens	blood
+MH504162.1	MH504162	2019-03-03T00:00:00Z	Orthohepevirus A	7210	United Kingdom	UK	United Kingdom: Aylesbury	Homo sapiens	blood
+MH504163.1	MH504163	2019-03-03T00:00:00Z	Orthohepevirus A	7189	United Kingdom	UK	United Kingdom: London	Homo sapiens	blood
+MF444027.1	MF444027	2019-02-20T00:00:00Z	Orthohepevirus A	7320	France	FR	France	Homo sapiens	blood
+MF444028.1	MF444028	2019-02-20T00:00:00Z	Orthohepevirus A	7227	France	FR	France	Homo sapiens	blood
+MF444029.1	MF444029	2019-02-20T00:00:00Z	Orthohepevirus A	7227	France	FR	France	Homo sapiens	feces
+MF444030.1	MF444030	2019-02-20T00:00:00Z	Orthohepevirus A	7235	France	FR	France	Homo sapiens	blood
+MF444032.1	MF444032	2019-02-20T00:00:00Z	Orthohepevirus A	7197	France	FR	France	Homo sapiens	blood
+MF444034.1	MF444034	2019-02-20T00:00:00Z	Orthohepevirus A	7365	France	FR	France	Homo sapiens	blood
+MF444035.1	MF444035	2019-02-20T00:00:00Z	Orthohepevirus A	7267	France	FR	France	Homo sapiens	blood
+MF444036.1	MF444036	2019-02-20T00:00:00Z	Orthohepevirus A	7277	France	FR	France	Homo sapiens	blood
+MF444037.1	MF444037	2019-02-20T00:00:00Z	Orthohepevirus A	7220	France	FR	France	Homo sapiens	blood
+MF444038.1	MF444038	2019-02-20T00:00:00Z	Orthohepevirus A	7290	France	FR	France	Homo sapiens	blood
+MF444039.1	MF444039	2019-02-20T00:00:00Z	Orthohepevirus A	7253	France	FR	France	Homo sapiens	blood
+MF444040.1	MF444040	2019-02-20T00:00:00Z	Orthohepevirus A	7243	France	FR	France	Homo sapiens	blood
+MF444041.1	MF444041	2019-02-20T00:00:00Z	Orthohepevirus A	7282	France	FR	France	Homo sapiens	blood
+MF444042.1	MF444042	2019-02-20T00:00:00Z	Orthohepevirus A	7219	France	FR	France	Homo sapiens	blood
+MF444043.1	MF444043	2019-02-20T00:00:00Z	Orthohepevirus A	7229	France	FR	France	Homo sapiens	blood
+MF444045.1	MF444045	2019-02-20T00:00:00Z	Orthohepevirus A	7304	France	FR	France	Homo sapiens	blood
+MF444046.1	MF444046	2019-02-20T00:00:00Z	Orthohepevirus A	7177	France	FR	France	Homo sapiens	blood
+MF444047.1	MF444047	2019-02-20T00:00:00Z	Orthohepevirus A	7299	France	FR	France	Homo sapiens	blood
+MF444048.1	MF444048	2019-02-20T00:00:00Z	Orthohepevirus A	7288	France	FR	France	Homo sapiens	blood
+MF444049.1	MF444049	2019-02-20T00:00:00Z	Orthohepevirus A	7194	France	FR	France	Homo sapiens	blood
+MF444050.1	MF444050	2019-02-20T00:00:00Z	Orthohepevirus A	7316	France	FR	France	Homo sapiens	blood
+MF444051.1	MF444051	2019-02-20T00:00:00Z	Orthohepevirus A	7258	France	FR	France	Homo sapiens	blood
+MF444052.1	MF444052	2019-02-20T00:00:00Z	Orthohepevirus A	7189	France	FR	France	Homo sapiens	blood
+MF444053.1	MF444053	2019-02-20T00:00:00Z	Orthohepevirus A	7142	France	FR	France	Homo sapiens	blood
+MF444054.1	MF444054	2019-02-20T00:00:00Z	Orthohepevirus A	7346	France	FR	France	Homo sapiens	blood
+MF444055.1	MF444055	2019-02-20T00:00:00Z	Orthohepevirus A	7319	France	FR	France	Homo sapiens	blood
+MF444056.1	MF444056	2019-02-20T00:00:00Z	Orthohepevirus A	7178	France	FR	France	Homo sapiens	blood
+MF444057.1	MF444057	2019-02-20T00:00:00Z	Orthohepevirus A	7274	France	FR	France	Homo sapiens	blood
+MF444058.1	MF444058	2019-02-20T00:00:00Z	Orthohepevirus A	7432	France	FR	France	Homo sapiens	blood
+MF444059.1	MF444059	2019-02-20T00:00:00Z	Orthohepevirus A	7267	France	FR	France	Homo sapiens	blood
+MF444061.1	MF444061	2019-02-20T00:00:00Z	Orthohepevirus A	7254	France	FR	France	Homo sapiens	blood
+MF444064.1	MF444064	2019-02-20T00:00:00Z	Orthohepevirus A	7162	France	FR	France	Homo sapiens	blood
+MF444065.1	MF444065	2019-02-20T00:00:00Z	Orthohepevirus A	7181	France	FR	France	Homo sapiens	blood
+MF444066.1	MF444066	2019-02-20T00:00:00Z	Orthohepevirus A	7278	France	FR	France	Homo sapiens	blood
+MF444067.1	MF444067	2019-02-20T00:00:00Z	Orthohepevirus A	7153	France	FR	France	Homo sapiens	blood
+MF444068.1	MF444068	2019-02-20T00:00:00Z	Orthohepevirus A	7278	France	FR	France	Homo sapiens	blood
+MF444069.1	MF444069	2019-02-20T00:00:00Z	Orthohepevirus A	7285	France	FR	France	Homo sapiens	blood
+MF444070.1	MF444070	2019-02-20T00:00:00Z	Orthohepevirus A	7259	France	FR	France	Homo sapiens	blood
+MF444072.1	MF444072	2019-02-20T00:00:00Z	Orthohepevirus A	7233	France	FR	France	Homo sapiens	blood
+MF444073.1	MF444073	2019-02-20T00:00:00Z	Orthohepevirus A	7294	France	FR	France	Homo sapiens	blood
+MF444075.1	MF444075	2019-02-20T00:00:00Z	Orthohepevirus A	7211	France	FR	France	Homo sapiens	blood
+MF444076.1	MF444076	2019-02-20T00:00:00Z	Orthohepevirus A	7268	France	FR	France	Homo sapiens	blood
+MF444077.1	MF444077	2019-02-20T00:00:00Z	Orthohepevirus A	7235	France	FR	France	Homo sapiens	blood
+MF444078.1	MF444078	2019-02-20T00:00:00Z	Orthohepevirus A	7273	France	FR	France	Homo sapiens	blood
+MF444079.1	MF444079	2019-02-20T00:00:00Z	Orthohepevirus A	7215	France	FR	France	Homo sapiens	blood
+MF444081.1	MF444081	2019-02-20T00:00:00Z	Orthohepevirus A	7257	France	FR	France	Homo sapiens	blood
+MF444082.1	MF444082	2019-02-20T00:00:00Z	Orthohepevirus A	7268	France	FR	France	Homo sapiens	blood
+MF444084.1	MF444084	2019-02-20T00:00:00Z	Orthohepevirus A	7266	France	FR	France	Homo sapiens	blood
+MF444085.1	MF444085	2019-02-20T00:00:00Z	Orthohepevirus A	7275	France	FR	France	Homo sapiens	blood
+MF444087.1	MF444087	2019-02-20T00:00:00Z	Orthohepevirus A	7296	France	FR	France	Homo sapiens	blood
+MF444088.1	MF444088	2019-02-20T00:00:00Z	Orthohepevirus A	7333	France	FR	France	Homo sapiens	blood
+MF444089.1	MF444089	2019-02-20T00:00:00Z	Orthohepevirus A	7171	France	FR	France	Homo sapiens	blood
+MF444090.1	MF444090	2019-02-20T00:00:00Z	Orthohepevirus A	7312	France	FR	France	Homo sapiens	blood
+MF444091.1	MF444091	2019-02-20T00:00:00Z	Orthohepevirus A	7209	France	FR	France	Homo sapiens	blood
+MF444092.1	MF444092	2019-02-20T00:00:00Z	Orthohepevirus A	7283	France	FR	France	Homo sapiens	blood
+MF444093.1	MF444093	2019-02-20T00:00:00Z	Orthohepevirus A	7256	France	FR	France	Homo sapiens	blood
+MF444094.1	MF444094	2019-02-20T00:00:00Z	Orthohepevirus A	7294	France	FR	France	Homo sapiens	blood
+MF444095.1	MF444095	2019-02-20T00:00:00Z	Orthohepevirus A	7285	France	FR	France	Homo sapiens	blood
+MF444096.1	MF444096	2019-02-20T00:00:00Z	Orthohepevirus A	7307	France	FR	France	Homo sapiens	blood
+MF444097.1	MF444097	2019-02-20T00:00:00Z	Orthohepevirus A	7262	France	FR	France	Homo sapiens	blood
+MF444098.1	MF444098	2019-02-20T00:00:00Z	Orthohepevirus A	7280	France	FR	France	Homo sapiens	blood
+MF444099.1	MF444099	2019-02-20T00:00:00Z	Orthohepevirus A	7255	France	FR	France	Homo sapiens	blood
+MF444100.1	MF444100	2019-02-20T00:00:00Z	Orthohepevirus A	7252	France	FR	France	Homo sapiens	blood
+MF444101.1	MF444101	2019-02-20T00:00:00Z	Orthohepevirus A	7211	France	FR	France	Homo sapiens	blood
+MF444102.1	MF444102	2019-02-20T00:00:00Z	Orthohepevirus A	7260	France	FR	France	Homo sapiens	blood
+MF444103.1	MF444103	2019-02-20T00:00:00Z	Orthohepevirus A	7275	France	FR	France	Homo sapiens	blood
+MF444104.1	MF444104	2019-02-20T00:00:00Z	Orthohepevirus A	7168	France	FR	France	Homo sapiens	blood
+MF444105.1	MF444105	2019-02-20T00:00:00Z	Orthohepevirus A	7308	France	FR	France	Homo sapiens	blood
+MF444106.1	MF444106	2019-02-20T00:00:00Z	Orthohepevirus A	7202	France	FR	France	Homo sapiens	blood
+MF444107.1	MF444107	2019-02-20T00:00:00Z	Orthohepevirus A	7263	France	FR	France	Homo sapiens	blood
+MF444108.1	MF444108	2019-02-20T00:00:00Z	Orthohepevirus A	7283	France	FR	France	Homo sapiens	blood
+MF444109.1	MF444109	2019-02-20T00:00:00Z	Orthohepevirus A	7192	France	FR	France	Homo sapiens	blood
+MF444110.1	MF444110	2019-02-20T00:00:00Z	Orthohepevirus A	7242	France	FR	France	Homo sapiens	blood
+MF444111.1	MF444111	2019-02-20T00:00:00Z	Orthohepevirus A	7191	France	FR	France	Homo sapiens	blood
+MF444112.1	MF444112	2019-02-20T00:00:00Z	Orthohepevirus A	7305	France	FR	France	Homo sapiens	blood
+MF444113.1	MF444113	2019-02-20T00:00:00Z	Orthohepevirus A	7193	France	FR	France	Homo sapiens	blood
+MF444114.1	MF444114	2019-02-20T00:00:00Z	Orthohepevirus A	7148	France	FR	France	Homo sapiens	blood
+MF444115.1	MF444115	2019-02-20T00:00:00Z	Orthohepevirus A	7176	France	FR	France	Homo sapiens	blood
+MF444116.1	MF444116	2019-02-20T00:00:00Z	Orthohepevirus A	7175	France	FR	France	Homo sapiens	blood
+MF444117.1	MF444117	2019-02-20T00:00:00Z	Orthohepevirus A	7288	France	FR	France	Homo sapiens	blood
+MF444120.1	MF444120	2019-02-20T00:00:00Z	Orthohepevirus A	7197	France	FR	France	Homo sapiens	blood
+MF444122.1	MF444122	2019-02-20T00:00:00Z	Orthohepevirus A	7205	France	FR	France	Homo sapiens	blood
+MF444123.1	MF444123	2019-02-20T00:00:00Z	Orthohepevirus A	7324	France	FR	France	Homo sapiens	blood
+MF444124.1	MF444124	2019-02-20T00:00:00Z	Orthohepevirus A	7298	France	FR	France	Homo sapiens	blood
+MF444125.1	MF444125	2019-02-20T00:00:00Z	Orthohepevirus A	7265	France	FR	France	Homo sapiens	blood
+MF444127.1	MF444127	2019-02-20T00:00:00Z	Orthohepevirus A	7277	France	FR	France	Homo sapiens	blood
+MF444128.1	MF444128	2019-02-20T00:00:00Z	Orthohepevirus A	7230	France	FR	France	Homo sapiens	blood
+MF444129.1	MF444129	2019-02-20T00:00:00Z	Orthohepevirus A	7255	France	FR	France	Homo sapiens	blood
+MF444130.1	MF444130	2019-02-20T00:00:00Z	Orthohepevirus A	7257	France	FR	France	Homo sapiens	blood
+MF444131.1	MF444131	2019-02-20T00:00:00Z	Orthohepevirus A	7166	France	FR	France	Homo sapiens	blood
+MF444132.1	MF444132	2019-02-20T00:00:00Z	Orthohepevirus A	7302	France	FR	France	Homo sapiens	blood
+MF444133.1	MF444133	2019-02-20T00:00:00Z	Orthohepevirus A	7273	France	FR	France	Homo sapiens	blood
+MF444134.1	MF444134	2019-02-20T00:00:00Z	Orthohepevirus A	7308	France	FR	France	Homo sapiens	blood
+MF444135.1	MF444135	2019-02-20T00:00:00Z	Orthohepevirus A	7211	France	FR	France	Homo sapiens	blood
+MF444136.1	MF444136	2019-02-20T00:00:00Z	Orthohepevirus A	7183	France	FR	France	Homo sapiens	blood
+MF444137.1	MF444137	2019-02-20T00:00:00Z	Orthohepevirus A	7308	France	FR	France	Homo sapiens	blood
+MF444138.1	MF444138	2019-02-20T00:00:00Z	Orthohepevirus A	7328	France	FR	France	Homo sapiens	blood
+MF444139.1	MF444139	2019-02-20T00:00:00Z	Orthohepevirus A	7290	France	FR	France	Homo sapiens	blood
+MF444140.1	MF444140	2019-02-20T00:00:00Z	Orthohepevirus A	7287	France	FR	France	Homo sapiens	blood
+MF444141.1	MF444141	2019-02-20T00:00:00Z	Orthohepevirus A	7170	France	FR	France	Homo sapiens	blood
+MF444142.1	MF444142	2019-02-20T00:00:00Z	Orthohepevirus A	7262	France	FR	France	Homo sapiens	blood
+MF444143.1	MF444143	2019-02-20T00:00:00Z	Orthohepevirus A	7196	France	FR	France	Homo sapiens	blood
+KU176129.1	KU176129	2017-01-15T00:00:00Z	Orthohepevirus A	7211	France	FR	France	Homo sapiens	
+KU176130.1	KU176130	2017-01-15T00:00:00Z	Orthohepevirus A	7205	France	FR	France	Homo sapiens	
+KU176131.1	KU176131	2017-01-15T00:00:00Z	Orthohepevirus A	7219	France	FR	France	Homo sapiens	
+KU176132.1	KU176132	2017-01-15T00:00:00Z	Orthohepevirus A	7213	France	FR	France	Homo sapiens	
+KR872415.1	KR872415	2015-11-02T00:00:00Z	Orthohepevirus A	7264	China	CN	China	Homo sapiens	blood
+KR872417.1	KR872417	2015-11-02T00:00:00Z	Orthohepevirus A	7264	China	CN	China	Homo sapiens	blood
+KC492825.1	KC492825	2013-08-20T00:00:00Z	Orthohepevirus A	7249	China	CN	China	Homo sapiens	feces
+KC163335.1	KC163335	2013-02-16T00:00:00Z	Orthohepevirus A	7253	China	CN	China	Homo sapiens	feces
+JF443717.1	JF443717	2012-10-21T00:00:00Z	Orthohepevirus A	7206	India	IN	"India: Kolhapur, Maharashtra"	Homo sapiens	
+JF443718.1	JF443718	2012-10-21T00:00:00Z	Orthohepevirus A	7215	India	IN	"India: Pune, Maharashtra"	Homo sapiens	
+JF443719.1	JF443719	2012-10-21T00:00:00Z	Orthohepevirus A	7215	India	IN	"India: Lonavala, Maharashtra"	Homo sapiens	
+JF443720.1	JF443720	2012-10-21T00:00:00Z	Orthohepevirus A	7206	India	IN	"India: Pune, Maharashtra"	Homo sapiens	blood
+JF443721.1	JF443721	2012-10-21T00:00:00Z	Orthohepevirus A	7217	India	IN	"India: Roha, Maharashtra"	Homo sapiens	
+JF443722.1	JF443722	2012-10-21T00:00:00Z	Orthohepevirus A	7206	India	IN	"India: Pune, Maharashtra"	Homo sapiens	
+JF443723.1	JF443723	2012-10-21T00:00:00Z	Orthohepevirus A	7211	India	IN	"India: Pune, Maharashtra"	Homo sapiens	blood
+JF443724.1	JF443724	2012-10-21T00:00:00Z	Orthohepevirus A	7206	India	IN	"India: Pune, Maharashtra"	Homo sapiens	blood
+JF443725.1	JF443725	2012-10-21T00:00:00Z	Orthohepevirus A	7201	India	IN	"India: Pune, Maharashtra"	Homo sapiens	
+JF443726.1	JF443726	2012-10-21T00:00:00Z	Orthohepevirus A	7226	India	IN	"India: Pune, Maharashtra"	Homo sapiens	
+JQ740781.1	JQ740781	2012-05-30T00:00:00Z	Orthohepevirus A	7252	China	CN	China	Homo sapiens	
+JQ655733.1	JQ655733	2012-05-20T00:00:00Z	Orthohepevirus A	7291	China	CN	China	Homo sapiens	
+JQ655734.1	JQ655734	2012-05-20T00:00:00Z	Orthohepevirus A	7212	China	CN	China	Homo sapiens	
+JQ655735.1	JQ655735	2012-05-20T00:00:00Z	Orthohepevirus A	7257	China	CN	China	Homo sapiens	
+JN906974.1	JN906974	2012-04-11T00:00:00Z	Orthohepevirus A	7261	France	FR	France	Homo sapiens	feces
+JQ679013.1	JQ679013	2012-03-19T00:00:00Z	Orthohepevirus A	7499	United Kingdom	UK	United Kingdom	Homo sapiens	liver
+JQ679014.1	JQ679014	2012-03-19T00:00:00Z	Orthohepevirus A	7280	United Kingdom	UK	United Kingdom	Homo sapiens	liver
+HQ389543.1	HQ389543	2011-01-30T00:00:00Z	Orthohepevirus A	7264	United Kingdom	UK	United Kingdom	Homo sapiens	feces
+HM439284.1	HM439284	2010-10-11T00:00:00Z	Orthohepevirus A	7229	China	CN	China	Homo sapiens	blood
+FJ457024.1	FJ457024	2008-12-09T00:00:00Z	Orthohepevirus A	7217	India	IN	India	Homo sapiens	bile
+DQ459342.1	DQ459342	2007-03-31T00:00:00Z	Orthohepevirus A	7215	India	IN	India: western region	Homo sapiens	
