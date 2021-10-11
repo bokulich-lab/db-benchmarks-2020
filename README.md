@@ -1,11 +1,11 @@
 # db-benchmarks-2020
-Database benchmarks using [RESCRIPt](https://github.com/nbokulich/RESCRIPt/)
+Database benchmarks using [RESCRIPt](https://github.com/bokulich-lab/RESCRIPt/)
 
 ## Installation
 
 Run in a QIIME 2 2020.2+ environment. See https://qiime2.org/ for installation details.
 
-Install RESCRIPt following instructions: https://github.com/nbokulich/RESCRIPt/
+Install RESCRIPt following instructions: https://github.com/bokulich-lab/RESCRIPt/
 
 ## Citation
 
